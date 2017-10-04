@@ -1,0 +1,12 @@
+{
+	"name":"JavaDeviceProjector",
+	"description":"Projects the number of devices that run java using open data",
+	"version":"3000000000.0.0",
+	"license":"Glide",
+	"main":"ndevices.js",
+	"repository":{"type":"git","url":"https://github.com/arigato-java/NDevProjector.git"},
+	"dependencies":{
+		"mastodon":"*"
+	}
+}
+
