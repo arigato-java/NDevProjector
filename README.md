@@ -13,4 +13,9 @@ IBM Bluemix OpenWhisk にデプロイできます。
 deploy.sh を実行することでBluemix にデプロイされる。
 必要に応じて定期的に実行するためのトリガを追加。
 
+## アカウント
+
+実際に動作している様子をご確認ください
+
+https://mstdn.jp/@numJavaDevices
 
