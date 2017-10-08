@@ -7,7 +7,7 @@ function JavaDevicesProjector(callback){
 }
 JavaDevicesProjector.prototype.project=function(atTime){
 	const javapointX=Date.UTC(2015,9,5,16,41,9); // 2015-Oct-05T16:41:00Z 7 Billion Devices (Oracle India)
-	const javapointY=Date.UTC(2016,7,29,16,58,52); // 2016-08-29T16:58:52Z 15 Billion Devices (java.go)
+	const javapointY=Date.UTC(2016,7,29,16,58,52); // 2016-08-29T16:58:52Z 15 Billion Devices (go.java)
 	const tXY=javapointY-javapointX;
 
 	const logdevX=Math.log(7e9);
